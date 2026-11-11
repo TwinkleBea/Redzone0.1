@@ -1,0 +1,10 @@
+target/
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Banco H2 em arquivo (gerado ao rodar a API)
+data/

@@ -1,0 +1,13 @@
+# Dependências e builds
+node_modules/
+dist/
+.angular/
+target/
+
+# Banco H2 em arquivo (gerado ao rodar a API)
+backend/data/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
